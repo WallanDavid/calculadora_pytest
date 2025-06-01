@@ -1,5 +1,5 @@
 [![CI](https://github.com/WallanDavid/calculadora_pytest/actions/workflows/python-app.yml/badge.svg)](https://github.com/WallanDavid/calculadora_pytest/actions)
-[![codecov](https://codecov.io/gh/WallanDavid/calculadora_pytest/branch/main/graph/badge.svg)](https://codecov.io/gh/WallanDavid/calculadora_pytest)
+[![Codecov](https://codecov.io/gh/WallanDavid/calculadora_pytest/branch/main/graph/badge.svg)](https://codecov.io/gh/WallanDavid/calculadora_pytest)
 
 # 🧮 calculadora_pytest
 
