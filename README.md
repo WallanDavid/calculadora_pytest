@@ -15,3 +15,4 @@ Executar testes com cobertura:
 ```bash
 coverage run -m pytest
 coverage report
+"# atualiza readme" 
