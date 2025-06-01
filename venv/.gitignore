@@ -1,0 +1,7 @@
+# Ignore o ambiente virtual
+venv/
+__pycache__/
+*.pyc
+.coverage
+htmlcov/
+coverage.xml
